@@ -5,3 +5,5 @@ forma mais fácil e dinâmica.
 Hoje será a primeira aula onde conectaremos o
 repositório online (que está no GitHub) com o 
 repositório da minha máquina.
+
+Edição realizada pelo GitHub
